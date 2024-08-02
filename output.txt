@@ -1,0 +1,45 @@
+Generating train split: 18283 examples [00:00, 215805.27 examples/s]
+Generating train split: 164539 examples [00:00, 319499.35 examples/s]
+dim_768_cosine_ndcg@10: 0.008630018391684204
+dim_512_cosine_ndcg@10: 0.008644823205304544
+dim_256_cosine_ndcg@10: 0.008201979586515718
+dim_128_cosine_ndcg@10: 0.007166052346654785
+dim_64_cosine_ndcg@10: 0.0052813535346677536
+/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+{'loss': 13.6561, 'grad_norm': 22.417661666870117, 'learning_rate': 1.550387596899225e-06, 'epoch': 0.03} 
+{'loss': 13.4306, 'grad_norm': 22.525239944458008, 'learning_rate': 3.10077519379845e-06, 'epoch': 0.06}  
+{'loss': 12.9966, 'grad_norm': 21.34446144104004, 'learning_rate': 4.651162790697675e-06, 'epoch': 0.09}  
+{'loss': 12.4841, 'grad_norm': 19.42301368713379, 'learning_rate': 6.2015503875969e-06, 'epoch': 0.12}    
+{'loss': 12.0463, 'grad_norm': 18.19976043701172, 'learning_rate': 7.751937984496126e-06, 'epoch': 0.16}  
+{'loss': 11.3683, 'grad_norm': 17.06561279296875, 'learning_rate': 9.30232558139535e-06, 'epoch': 0.19}   
+{'loss': 10.9246, 'grad_norm': 18.23343849182129, 'learning_rate': 1.0852713178294573e-05, 'epoch': 0.22} 
+{'loss': 10.4503, 'grad_norm': 17.51021385192871, 'learning_rate': 1.24031007751938e-05, 'epoch': 0.25}   
+{'loss': 9.9362, 'grad_norm': 17.593149185180664, 'learning_rate': 1.3953488372093025e-05, 'epoch': 0.28} 
+{'loss': 9.6882, 'grad_norm': 17.013080596923828, 'learning_rate': 1.550387596899225e-05, 'epoch': 0.31}  
+{'loss': 9.4421, 'grad_norm': 17.08064079284668, 'learning_rate': 1.7054263565891473e-05, 'epoch': 0.34}  
+{'loss': 9.0539, 'grad_norm': 16.903724670410156, 'learning_rate': 1.86046511627907e-05, 'epoch': 0.37}   
+{'loss': 8.7693, 'grad_norm': 17.413436889648438, 'learning_rate': 1.9999963008195813e-05, 'epoch': 0.4}  
+{'loss': 8.5111, 'grad_norm': 17.210010528564453, 'learning_rate': 1.9995524322835035e-05, 'epoch': 0.44} 
+{'loss': 8.2657, 'grad_norm': 17.257444381713867, 'learning_rate': 1.9983691039261358e-05, 'epoch': 0.47} 
+{'loss': 8.0947, 'grad_norm': 17.15909767150879, 'learning_rate': 1.996447191163062e-05, 'epoch': 0.5}    
+{'loss': 8.0244, 'grad_norm': 17.69477653503418, 'learning_rate': 1.9937881158079078e-05, 'epoch': 0.53}  
+{'loss': 7.7115, 'grad_norm': 18.160730361938477, 'learning_rate': 1.9903938450204972e-05, 'epoch': 0.56} 
+{'loss': 7.7373, 'grad_norm': 17.067134857177734, 'learning_rate': 1.9862668898515665e-05, 'epoch': 0.59} 
+{'loss': 7.5996, 'grad_norm': 18.447965621948242, 'learning_rate': 1.9814103033851078e-05, 'epoch': 0.62} 
+{'loss': 7.247, 'grad_norm': 16.34044075012207, 'learning_rate': 1.97582767847973e-05, 'epoch': 0.65}     
+{'loss': 7.5113, 'grad_norm': 18.61568260192871, 'learning_rate': 1.9695231451106914e-05, 'epoch': 0.68}  
+{'loss': 7.122, 'grad_norm': 17.15241241455078, 'learning_rate': 1.9625013673145826e-05, 'epoch': 0.72}   
+{'loss': 7.0504, 'grad_norm': 16.956464767456055, 'learning_rate': 1.9547675397389144e-05, 'epoch': 0.75} 
+{'loss': 6.9841, 'grad_norm': 19.186166763305664, 'learning_rate': 1.9463273837991643e-05, 'epoch': 0.78} 
+{'loss': 6.9597, 'grad_norm': 18.055810928344727, 'learning_rate': 1.9371871434461265e-05, 'epoch': 0.81} 
+{'loss': 6.8767, 'grad_norm': 18.784006118774414, 'learning_rate': 1.927353580546692e-05, 'epoch': 0.84}  
+{'loss': 6.7117, 'grad_norm': 17.6915225982666, 'learning_rate': 1.916833969881482e-05, 'epoch': 0.87}    
+{'loss': 6.6727, 'grad_norm': 17.737083435058594, 'learning_rate': 1.905636093763031e-05, 'epoch': 0.9}   
+{'loss': 6.6064, 'grad_norm': 17.912521362304688, 'learning_rate': 1.8937682362785025e-05, 'epoch': 0.93} 
+{'loss': 6.5694, 'grad_norm': 17.62652587890625, 'learning_rate': 1.8812391771611956e-05, 'epoch': 0.96}  
+{'loss': 6.4373, 'grad_norm': 17.039798736572266, 'learning_rate': 1.8680581852953806e-05, 'epoch': 1.0}  
+{'eval_dim_768_cosine_accuracy@1': 0.006782256741235027, 'eval_dim_768_cosine_accuracy@3': 0.016518076902040147, 'eval_dim_768_cosine_accuracy@5': 0.025378767160750423, 'eval_dim_768_cosine_accuracy@10': 0.041185801017338514, 'eval_dim_768_cosine_precision@1': 0.006782256741235027, 'eval_dim_768_cosine_precision@3': 0.005506025634013382, 'eval_dim_768_cosine_precision@5': 0.005075753432150085, 'eval_dim_768_cosine_precision@10': 0.0041185801017338515, 'eval_dim_768_cosine_recall@1': 0.006782256741235027, 'eval_dim_768_cosine_recall@3': 0.016518076902040147, 'eval_dim_768_cosine_recall@5': 0.025378767160750423, 'eval_dim_768_cosine_recall@10': 0.041185801017338514, 'eval_dim_768_cosine_ndcg@10': 0.021100467032083153, 'eval_dim_768_cosine_mrr@10': 0.015034067556902956, 'eval_dim_768_cosine_map@100': 0.018973036958934156, 'eval_dim_512_cosine_accuracy@1': 0.006891647978996883, 'eval_dim_512_cosine_accuracy@3': 0.016518076902040147, 'eval_dim_512_cosine_accuracy@5': 0.025324071541869497, 'eval_dim_512_cosine_accuracy@10': 0.041076409779576654, 'eval_dim_512_cosine_precision@1': 0.006891647978996883, 'eval_dim_512_cosine_precision@3': 0.005506025634013381, 'eval_dim_512_cosine_precision@5': 0.005064814308373899, 'eval_dim_512_cosine_precision@10': 0.004107640977957666, 'eval_dim_512_cosine_recall@1': 0.006891647978996883, 'eval_dim_512_cosine_recall@3': 0.016518076902040147, 'eval_dim_512_cosine_recall@5': 0.025324071541869497, 'eval_dim_512_cosine_recall@10': 0.041076409779576654, 'eval_dim_512_cosine_ndcg@10': 0.021028039919582204, 'eval_dim_512_cosine_mrr@10': 0.014987771622350163, 'eval_dim_512_cosine_map@100': 0.018951028126559133, 'eval_dim_256_cosine_accuracy@1': 0.007110430454520593, 'eval_dim_256_cosine_accuracy@3': 0.01597112071323087, 'eval_dim_256_cosine_accuracy@5': 0.024120767926489088, 'eval_dim_256_cosine_accuracy@10': 0.04014658425860088, 'eval_dim_256_cosine_precision@1': 0.007110430454520593, 'eval_dim_256_cosine_precision@3': 0.00532370690441029, 'eval_dim_256_cosine_precision@5': 0.0048241535852978175, 'eval_dim_256_cosine_precision@10': 0.004014658425860089, 'eval_dim_256_cosine_recall@1': 0.007110430454520593, 'eval_dim_256_cosine_recall@3': 0.01597112071323087, 'eval_dim_256_cosine_recall@5': 0.024120767926489088, 'eval_dim_256_cosine_recall@10': 0.04014658425860088, 'eval_dim_256_cosine_ndcg@10': 0.02066404893879249, 'eval_dim_256_cosine_mrr@10': 0.014814699056891225, 'eval_dim_256_cosine_map@100': 0.018733858752715722, 'eval_dim_128_cosine_accuracy@1': 0.0064540830279494615, 'eval_dim_128_cosine_accuracy@3': 0.015095990811136028, 'eval_dim_128_cosine_accuracy@5': 0.023245638024394246, 'eval_dim_128_cosine_accuracy@10': 0.03659136903134059, 'eval_dim_128_cosine_precision@1': 0.0064540830279494615, 'eval_dim_128_cosine_precision@3': 0.005031996937045343, 'eval_dim_128_cosine_precision@5': 0.0046491276048788496, 'eval_dim_128_cosine_precision@10': 0.003659136903134059, 'eval_dim_128_cosine_recall@1': 0.0064540830279494615, 'eval_dim_128_cosine_recall@3': 0.015095990811136028, 'eval_dim_128_cosine_recall@5': 0.023245638024394246, 'eval_dim_128_cosine_recall@10': 0.03659136903134059, 'eval_dim_128_cosine_ndcg@10': 0.01905578955074699, 'eval_dim_128_cosine_mrr@10': 0.01375870463410799, 'eval_dim_128_cosine_map@100': 0.017509847445411245, 'eval_dim_64_cosine_accuracy@1': 0.005031996937045343, 'eval_dim_64_cosine_accuracy@3': 0.013345731006946344, 'eval_dim_64_cosine_accuracy@5': 0.020893726412514357, 'eval_dim_64_cosine_accuracy@10': 0.03391128370617513, 'eval_dim_64_cosine_precision@1': 0.005031996937045343, 'eval_dim_64_cosine_precision@3': 0.004448577002315448, 'eval_dim_64_cosine_precision@5': 0.004178745282502872, 'eval_dim_64_cosine_precision@10': 0.0033911283706175134, 'eval_dim_64_cosine_recall@1': 0.005031996937045343, 'eval_dim_64_cosine_recall@3': 0.013345731006946344, 'eval_dim_64_cosine_recall@5': 0.020893726412514357, 'eval_dim_64_cosine_recall@10': 0.03391128370617513, 'eval_dim_64_cosine_ndcg@10': 0.01705649374105918, 'eval_dim_64_cosine_mrr@10': 0.011981965204904532, 'eval_dim_64_cosine_map@100': 0.015375729691733252, 'eval_sequential_score': 0.015375729691733252, 'eval_runtime': 10981.0559, 'eval_samples_per_second': 0.0, 'eval_steps_per_second': 0.0, 'epoch': 1.0}
+{'loss': 6.4938, 'grad_norm': 17.897235870361328, 'learning_rate': 1.8542350118592585e-05, 'epoch': 1.03} 
+{'loss': 6.4069, 'grad_norm': 17.882658004760742, 'learning_rate': 1.8397798831111316e-05, 'epoch': 1.06} 
+{'loss': 6.2401, 'grad_norm': 16.782350540161133, 'learning_rate': 1.8247034928241086e-05, 'epoch': 1.09}
